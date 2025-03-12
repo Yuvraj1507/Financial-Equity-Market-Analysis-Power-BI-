@@ -89,18 +89,6 @@ IGNORE 1 ROWS;
 📊 Enhanced User Interactivity with Drill-through Reports
 
 
-
-## 📂 Folder Structure
-
-```plaintext
-📁 Equity-Market-Analysis-Dashboard
-│── 📂 data              # Raw and processed financial data
-│── 📂 powerbi           # Power BI project files
-│── 📂 sql               # SQL scripts for data extraction
-│── 📂 screenshots       # Images for documentation
-│── README.md            # Project documentation
-
-
 ## 🏆 Conclusion
 
 This Equity Market Analysis Dashboard enables investors to make informed decisions using historical data trends and key financial metrics. 📊📈
